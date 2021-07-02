@@ -1,3 +1,3 @@
-# automation-of-key-creation-and-updating
+# Automating the task of creating and updating keys in python using the pyhive library.
 
-Автоматизация задачи по созданию и обновлению ключей в python с помощью библиотеки pyhive. 
+if you have ideas on how to optimize this code, please, make your changes.
